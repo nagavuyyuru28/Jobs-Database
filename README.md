@@ -1,2 +1,2 @@
 # JobsDatabaseProject
-A jobs database for searching jobs in software and data science 
+A Database for job seekers during the COVID-19 pandemic.
